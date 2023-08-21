@@ -1,25 +1,21 @@
-# academy-template-readme-profile
+# Apresentação
 
-# Oi, me chamo [Seu nome aqui] 👋
+# Oi, me chamo Natália Brito 👋
 
 ### Sobre mim
 
-💻 Eu sou um desenvolvedor [Front-End | Back-End | Fullstack]
+💻 Eu sou Cientista de Dados
 
 <!-- Isso é um comentário, não irá aparecer no seu perfil
 (Abaixo você seleciona o curso que você está fazendo no momento) -->
 
-🎓 Eu estudo [[Desenvolvimento de Software Fullstack](https://cubos.academy/cursos/desenvolvimento-de-software-v2) | [Desenvolvimento de Software com Foco em Back-End](https://cubos.academy/cursos/desenvolvimento-de-software-v2) | Outro ] @ [ [Cubos Academy](https://cubos.academy/) | Faculdade | Escola | Curso]
+🎓 Eu estudo Ciência da Computação @ Unimar | Ciência de Dados @ ADA Tech
 
-👩‍💻 Atualmente eu trabalho como [Cargo] @ [Empresa atual]
+👩‍💻 Atualmente eu trabalho como Cientista de Dados - Estagiária @ DPOnet
 
-🔎 Também sou curioso sobre [Temas que você gosta]
+🔎 Também sou curioso sobre machine learning e inteligência artificial!
 
-✒️ Eu gosto de no meu tempo livre [Coisas que você gosta de fazer no tempo livre];
-
-📚 Lendo: [Livro que está lendo atualmente]
-
-### Eu já trabalhei com... 🔧
+### Eu já trabalhei com desenvolvimento de modelos de machine learning na área jurídica - Lei Geral de Proteção de Dados (LGPD) 🔧
 
 **Tecnologias e Ferramentas**
 
