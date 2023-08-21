@@ -9,7 +9,8 @@
 <!-- Isso é um comentário, não irá aparecer no seu perfil
 (Abaixo você seleciona o curso que você está fazendo no momento) -->
 
-🎓 Eu estudo Ciência da Computação @ Unimar | Ciência de Dados @ ADA Tech
+🎓 Eu estudo [Ciência da Computação](https://oficial.unimar.br/cursos/ciencia-da-computacao/) @ [Unimar](https://oficial.unimar.br/) 
+[Ciência de Dados - Santander Coders 2023](https://ada.tech/sou-aluno/programas/santander-coders-2023) @ [ADA Tech](https://www.linkedin.com/school/adatechbr/)
 
 👩‍💻 Atualmente eu trabalho como Cientista de Dados - Estagiária @ DPOnet
 
