@@ -11,7 +11,7 @@
 
 🎓 Eu estudo [Ciência da Computação](https://oficial.unimar.br/cursos/ciencia-da-computacao/) @ [Unimar](https://oficial.unimar.br/) 
 
-[Ciência de Dados - Santander Coders 2023](https://www.linkedin.com/posts/adatechbr_santander-coders-2023-activity-7054461150486269952-ENtp/?originalSubdomain=br) @ [ADA Tech](https://www.linkedin.com/school/adatechbr/)
+🎓 Fui uma dos 300 selecionados de mais de 70 mil inscritos para estudar [Ciência de Dados - Santander Coders 2023](https://www.linkedin.com/posts/adatechbr_santander-coders-2023-activity-7054461150486269952-ENtp/?originalSubdomain=br) na [ADA Tech](https://www.linkedin.com/school/adatechbr/) !
 
 👩‍💻 Atualmente eu trabalho como Cientista de Dados - Estagiária @ DPOnet
 
