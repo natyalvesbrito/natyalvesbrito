@@ -45,6 +45,7 @@
 ### Cursos realizados 🤓
 <div>
 Formação ciência de dados Alura
+  
 Ciência de dados - Santander Coders 2023
 </div>
 <!-- (Aqui você pode adicionar cursos que você já fez) -->
