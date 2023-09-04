@@ -15,7 +15,7 @@
 
 👩‍💻 Experiências:
 
-Cientista de Dados - Estagiária @ DPOnet
+- Cientista de Dados - Estagiária @ DPOnet
 
 🔎 Também sou curiosa sobre machine learning e inteligência artificial!
 
