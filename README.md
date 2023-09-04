@@ -13,7 +13,9 @@
 
 🎓 Fui uma dos 300 selecionados de mais de 70 mil inscritos para estudar [Ciência de Dados - Santander Coders 2023](https://www.linkedin.com/posts/adatechbr_santander-coders-2023-activity-7054461150486269952-ENtp/?originalSubdomain=br) na [ADA Tech](https://www.linkedin.com/school/adatechbr/) !
 
-👩‍💻 Atualmente eu trabalho como Cientista de Dados - Estagiária @ DPOnet
+👩‍💻 Experiências:
+
+Cientista de Dados - Estagiária @ DPOnet
 
 🔎 Também sou curiosa sobre machine learning e inteligência artificial!
 
