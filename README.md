@@ -76,23 +76,6 @@ Substitua o usuário lbguilherme pelo seu usuário no GitHub.
 </div>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=natyalvesbrito&label=Profile%20views&color=0e75b6&style=flat" alt="natyalvesbrito" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=natyalvesbrito" alt="natyalvesbrito" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=natyalvesbrito&show_icons=true&locale=en&layout=compact" alt="natyalvesbrito" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=natyalvesbrito&show_icons=true&locale=en" alt="natyalvesbrito" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=natyalvesbrito&" alt="natyalvesbrito" /></p>
-
-
-
-
 Esse template foi feito por <a href="https://cubos.academy/" target="_blank">Cubos Academy!</a> ✨
 
 <!--
